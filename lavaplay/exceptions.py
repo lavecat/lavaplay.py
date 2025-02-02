@@ -126,10 +126,11 @@ class TrackLoadFailed(Exception):
     severity: :class:`str`
         gets the severity level of the track loading failure
     """
-    def __init__(self, message: str, severity: str, cause:str) -> None:
+    def __init__(self, message: str, severity: str, cause:str , causeStackTrace: str) -> None:
         self._message = message
         self._severity = severity
         self._cause = cause
+        self._causeStackTrace = causeStackTrace
 
     @property
     def message(self):
