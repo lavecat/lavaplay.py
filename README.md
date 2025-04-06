@@ -16,7 +16,7 @@
 <br>
 
 > [!WARNING]
-> This fork is now archived as it is not useful, I will now make changes directly on lavaplay 
+> This fork is now archived as it is not useful, I will now make changes directly on [lavaplay](https://github.com/HazemMeqdad/lavaplay.py)
 
 Its a lavalink nodes manger to make a music bots for discord with python.
 
