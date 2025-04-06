@@ -6,7 +6,6 @@
     </b>
 </h1>
 
-
 <p align="center">
     <a href="https://discord.gg/VcWRRphVQB">Support Guild</a> |
     <a href="https://github.com/HazemMeqdad/lavaplay.py/tree/main/examples">Examples</a> |
@@ -15,6 +14,9 @@
 </p>
 
 <br>
+
+> [!WARNING]
+> This fork is now archived as it is not useful, I will now make changes directly on lavaplay 
 
 Its a lavalink nodes manger to make a music bots for discord with python.
 
